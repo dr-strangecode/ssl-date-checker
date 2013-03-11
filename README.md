@@ -1,4 +1,4 @@
-# Ssl::Date::Checker
+# SslDateChecker
 
 TODO: Write a gem description
 
