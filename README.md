@@ -14,11 +14,11 @@ clone the repo
 
 Copy the default configuration file
 
-  cp config/config.yml.default config/config.yml
+    cp config/config.yml.default config/config.yml
 
 Edit the config file, then run:
 
-  ruby lib/ssl-date-checker/main.rb
+    ruby lib/ssl-date-checker/main.rb
 
 ## Contributing
 
