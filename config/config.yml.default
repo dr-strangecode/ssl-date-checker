@@ -1,0 +1,3 @@
+days_threshold: 60
+sites:
+  - 'https://www.google.com'

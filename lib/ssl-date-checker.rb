@@ -5,3 +5,5 @@ require "ssl-date-checker/version"
 
 module SslDateChecker
 end
+
+require 'ssl-date-checker/main'
